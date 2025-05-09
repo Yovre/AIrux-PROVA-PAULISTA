@@ -39,4 +39,10 @@ Assistente que auxilia estudantes com:
 **DISCORD**
 ▶ Arysui
 
+**CHAVE API**
+
+**USE ESTA CHAVE API SE FOR USAR A AI DEEPSEEK**
+
+*sk-6e1e8a8893f547c4a3921d14853e6153*
+
 **"Ferramentas inteligentes para mentes dedicadas"**

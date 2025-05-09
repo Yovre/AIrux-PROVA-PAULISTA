@@ -46,3 +46,5 @@ Assistente que auxilia estudantes com:
 *sk-6e1e8a8893f547c4a3921d14853e6153*
 
 **"Ferramentas inteligentes para mentes dedicadas"**
+
+EM BREVE ESTAREMOS FAZENDO O SCRIPT FUNCIONAR EM CHROMEBOOKS SEM A NECESSIDADE DE INSTALAR EXTENSÕES

@@ -48,3 +48,12 @@ Assistente que auxilia estudantes com:
 **"Ferramentas inteligentes para mentes dedicadas"**
 
 EM BREVE ESTAREMOS FAZENDO O SCRIPT FUNCIONAR EM CHROMEBOOKS SEM A NECESSIDADE DE INSTALAR EXTENSÕES
+
+
+## ▶ AIRUX -CHROME-
+
+# Caso voce esteja usando o AIrux script no chromebook, 
+  entre no link abaixo e veja como utiliza-lo
+
+
+

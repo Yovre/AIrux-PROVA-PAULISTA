@@ -55,5 +55,5 @@ EM BREVE ESTAREMOS FAZENDO O SCRIPT FUNCIONAR EM CHROMEBOOKS SEM A NECESSIDADE D
 # Caso voce esteja usando o AIrux script no chromebook, 
   entre no link abaixo e veja como utiliza-lo
 
-
+[ENTRE AQUI PARA USAR O AIRUX SCRIPT PARA CHROMEBOOK](https://github.com/Yovre/AIRUX-SCRIPT---CHROMEBOOK-.git)
 
